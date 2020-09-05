@@ -6,6 +6,7 @@ Integrating your OpenCart store with Og Pay checkout services allows you to acce
 
 # Supported Versions
 Opencart 3.0.2.0 or higher
+OpenCart 2.1 to v2.3
 
 # Extension Setup Guide
 Visit
