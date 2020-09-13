@@ -11,4 +11,4 @@ Integrating your OpenCart store with Og Checkout services allows you to accept p
 
 # Extension Setup Guide
 Visit
-https://oneglobal.gitbook.io/ogcheckout/plugins-setup-guide/opencart
+https://checkoutdocs.oneglobal.com/plugins-setup-guide/opencart
