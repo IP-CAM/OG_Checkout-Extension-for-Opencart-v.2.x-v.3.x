@@ -6,7 +6,7 @@ Integrating your OpenCart store with Og Checkout services allows you to accept p
 
 # Supported Versions
 -OpenCart v3.0.2.0 or Higher<br>
--OpenCart v2.3x <br>
+-OpenCart v2.3x or Higher <br>
 -OpenCart v2.0 to 2.0.3.1
 
 # Extension Setup Guide
